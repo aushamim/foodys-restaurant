@@ -1,0 +1,26 @@
+[
+  {
+    "name": "L.E.O. (Lox, Eggs and Onions)",
+    "description": "This recipe comes via Gabe Kennedy, winner of ABC's 'The Taste' — and it comes together in just 20 minutes total.",
+    "price": "20",
+    "img": "/assets/breakfast1.jpg"
+  },
+  {
+    "name": "Soufflé Pancakes",
+    "description": "If you want to take your pancakes up a notch — literally — then this might be the recipe for you.",
+    "price": "25",
+    "img": "/assets/breakfast2.jpg"
+  },
+  {
+    "name": "Applesauce Bread",
+    "description": "This nostalgic quick bread pairs beautifully with a pat of butter and a side of coffee or tea.",
+    "price": "13",
+    "img": "/assets/breakfast3.jpg"
+  },
+  {
+    "name": "Wonton Soup",
+    "description": "This soothing, warming soup comes together with the help of pre-made wontons, made with any type of filling you prefer. ",
+    "price": "18",
+    "img": "/assets/breakfast4.jpg"
+  }
+]

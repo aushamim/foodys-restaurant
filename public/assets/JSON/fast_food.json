@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Blossoming Onion Lotus",
+    "description": "This eye-catching dish is sure to impress your guests! A whole onion is cut and battered to resemble a beautiful lotus flower, and then deep-fried with potato slices to crispy perfection.",
+    "price": "12",
+    "img": "/assets/fastfood1.jpg"
+  },
+  {
+    "name": "Fried Mac ‘n’ Cheese Sticks",
+    "description": "America’s favorite comfort food gets an upgrade in this mac ‘n’ cheese variation that you can easily make by just adding a few steps to your usual pasta prep.",
+    "price": "15",
+    "img": "/assets/fastfood2.jpg"
+  },
+  {
+    "name": "Pizza Bombs",
+    "description": "These pizza bombs are a fun and easy twist on the classic pie! Soft and pillowy dough is filled with savory pizza toppings, then baked until golden and melty, creating a meal that's the perfect party pleaser.",
+    "price": "15",
+    "img": "/assets/fastfood3.jpg"
+  },
+  {
+    "name": "Curly Fries",
+    "description": "These curly fries are a crispy and addictive snack! The spiral shape and seasoning make for a fun and delicious side dish.",
+    "price": "10",
+    "img": "/assets/fastfood4.jpg"
+  }
+]

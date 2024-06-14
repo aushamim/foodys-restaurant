@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cheese Tortellini",
+    "description": "Cheese tortellini makes the best quick dinner recipe! Serve it up in a creamy marinara sauce flavored with goat cheese and basil.",
+    "price": "50",
+    "img": "/assets/dinner1.jpg"
+  },
+  {
+    "name": "Pecan Crusted Salmon",
+    "description": "This pecan crusted salmon is fast and easy, with a deliciously crunchy topping! Make it to impress on weeknights or for dinner guests.",
+    "price": "80",
+    "img": "/assets/dinner2.jpg"
+  },
+  {
+    "name": "Avocado Grilled Cheese Sandwich",
+    "description": "This avocado grilled cheese is a simple way to step up the standard! In just 10 minutes, it makes an easy meal with soup or salad.",
+    "price": "43",
+    "img": "/assets/dinner3.jpg"
+  },
+  {
+    "name": "Easy Cajun Shrimp",
+    "description": "This easy Cajun shrimp recipe takes just 5 minutes on the stove for a big payoff in flavor! Whip it up as a quick weeknight dinner.",
+    "price": "75",
+    "img": "/assets/dinner4.jpg"
+  }
+]

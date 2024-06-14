@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mediterranean Tuna Salad",
+    "description": "Combine canned tuna with crunchy vegetables, feta cheese, olive oil and a punch of Dijon mustard for the most flavorful salad to hit your plate!",
+    "price": "30",
+    "img": "/assets/lunch1.jpg"
+  },
+  {
+    "name": "Loaded Hummus Dip",
+    "description": "Hummus dip is a quick and easy appetizer! Top a platter with cucumber, tomatoes, olives and feta cheese, then dip with pita chips.",
+    "price": "32",
+    "img": "/assets/lunch2.jpg"
+  },
+  {
+    "name": "Classic Three Bean Salad",
+    "description": "Here’s how to make the best three bean salad recipe: a fresh spin on Grandma’s! It’s so easy to throw together for picnics and potlucks.",
+    "price": "28",
+    "img": "/assets/lunch3.jpg"
+  },
+  {
+    "name": "Classic Egg Salad",
+    "description": "Layer it between bread slices and it’s absolutely heavenly! Here are the tricks to a killer egg salad.",
+    "price": "20",
+    "img": "/assets/lunch4.jpg"
+  }
+]
